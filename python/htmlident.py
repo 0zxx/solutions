@@ -1,15 +1,17 @@
 import requests
 import importlib
 
-# check if BeautifulSoup is installed
-try:
-    importlib.import_module('bs4')
-except ImportError:
-    # install BeautifulSoup using pip
-    import subprocess
-    subprocess.run(['pip', 'install', 'beautifulsoup4'])
+# define a list of required packages
+required_packages = ['bs4', 'autopep8']
 
-from bs4 import BeautifulSoup
+# check if the required packages are installed
+for package in required_packages:
+    try:
+        importlib.import_module(package)
+    except ImportError:
+        # install the missing package using pip
+        import subprocess
+        subprocess.run(['pip', 'install', package])
 
 # prompt the user for the input source
 input_source = input("Enter the path to the HTML file or a URL to fetch the HTML from: ")
@@ -31,3 +33,10 @@ soup = BeautifulSoup(html, 'html.parser')
 output_path = input("Enter the path to the output file: ")
 with open(output_path, 'w') as f:
     f.write(soup.prettify())
+
+# prompt the user if they want to keep the installed packages
+answer = input("Do you want to keep the installed packages? (y/n) ")
+if answer.lower() == 'n':
+    # remove the installed packages using pip
+    for package in required_packages:
+        subprocess.run(['pip', 'uninstall', '-y', package])
