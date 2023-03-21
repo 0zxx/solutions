@@ -1,7 +1,7 @@
 import importlib
 import subprocess
 
-def fix_code(file_name):
+def fix_python_code(file_path):
     # check if autopep8 is installed
     try:
         importlib.import_module('autopep8')
@@ -12,20 +12,21 @@ def fix_code(file_name):
     import autopep8
 
     # Opening file and learning content
-    with open(file_name, 'r') as file:
-        code = file.read()
+    with open(file_path, 'r') as f:
+        code = f.read()
 
     # fix the code using the autopep8 library
     fixed_code = autopep8.fix_code(code)
 
-    # rewrite the code with the fixed code
-    with open(f"{file_name.split('.')[0]}_fix.py", 'w') as file:
-        file.write(fixed_code)
+    # write the fixed code to a new file
+    output_file_path = file_path.replace(".py", "_fix.py")
+    with open(output_file_path, 'w') as f:
+        f.write(fixed_code)
 
-    print(f"O arquivo {file_name} foi corrigido com sucesso e salvo como {file_name.split('.')[0]}_fix.py")
+    print(f"Fixed code written to {output_file_path}")
 
     # prompt the user to choose whether to keep the libraries installed at the beginning
-    keep_libraries = input("Deseja manter as bibliotecas instaladas no início? (s/n): ")
+    keep_libraries = input("Do you want to keep the libraries installed? (y/n): ")
     if keep_libraries.lower() == 'n':
         # uninstall autopep8 using pip
         subprocess.run(['pip', 'uninstall', '-y', 'autopep8'])
