@@ -29,4 +29,4 @@ def fix_python_code(file_path):
     keep_libraries = input("Do you want to keep the libraries installed? (y/n): ")
     if keep_libraries.lower() == 'n':
         # uninstall autopep8 using pip
-        subprocess.run(['pip', 'uninstall', '-y', 'autopep8'])
+        subprocess.run(['pip', 'uninstall', '-y', 'autopep8'], check=True)
