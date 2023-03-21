@@ -1,4 +1,14 @@
 import requests
+import importlib
+
+# check if BeautifulSoup is installed
+try:
+    importlib.import_module('bs4')
+except ImportError:
+    # install BeautifulSoup using pip
+    import subprocess
+    subprocess.run(['pip', 'install', 'beautifulsoup4'])
+
 from bs4 import BeautifulSoup
 
 # prompt the user for the input source
