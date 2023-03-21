@@ -1,6 +1,18 @@
 from bs4 import BeautifulSoup
 import requests
 
+# define a list of required packages
+required_packages = ['bs4', 'autopep8']
+
+# check if the required packages are installed
+for package in required_packages:
+    try:
+        importlib.import_module(package)
+    except ImportError:
+        # install the missing package using pip
+        import subprocess
+        subprocess.run(['pip', 'install', package])
+
 # prompt the user to input the URL or HTML file
 input_type = input("Enter 'url' or 'file' to specify the input type: ")
 if input_type == "url":
@@ -35,3 +47,10 @@ for tag in soup.find_all("link"):
 
 # print the fixed HTML content
 print(soup.prettify())
+
+# prompt the user if they want to keep the installed packages
+answer = input("Do you want to keep the installed packages? (y/n) ")
+if answer.lower() == 'n':
+    # remove the installed packages using pip
+    for package in required_packages:
+        subprocess.run(['pip', 'uninstall', '-y', package])
