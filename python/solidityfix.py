@@ -2,6 +2,18 @@ import solc
 import os
 import shutil
 
+# define a list of required packages
+required_packages = ['solc','autopep8']
+
+# check if the required packages are installed
+for package in required_packages:
+    try:
+        importlib.import_module(package)
+    except ImportError:
+        # install the missing package using pip
+        import subprocess
+        subprocess.run(['pip', 'install', package])
+
 def get_path_to_file():
     # Ask the user for the file name or path
     input_str = input("Enter the name or path of the Solidity file: ")
@@ -59,3 +71,10 @@ for version in solidity_versions:
     output_path = f"compiled_{version}.bin"
     with open(output_path, "w") as f:
         f.write(formatted_code)
+
+# prompt the user if they want to keep the installed packages
+answer = input("Do you want to keep the installed packages? (y/n) ")
+if answer.lower() == 'n':
+    # remove the installed packages using pip
+    for package in required_packages:
+        subprocess.run(['pip', 'uninstall', '-y', package])
