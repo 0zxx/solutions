@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Metamask Login</title>
+    <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js/dist/web3.min.js"></script>
+</head>
+<body>
+    <h1>Metamask Login</h1>
+    <p>Por favor, conecte sua carteira Metamask para continuar.</p>
+    <button onclick="connect()">Conectar</button>
+
+    <script>
+        async function connect() {
+            if (typeof web3 !== 'undefined') {
+                try {
+                    // Solicita permissão do usuário para acessar a carteira
+                    await window.ethereum.enable();
+
+                    // Verifica se a carteira conectada é a carteira permitida
+                    const web3 = new Web3(window.ethereum);
+                    const accounts = await web3.eth.getAccounts();
+
+                    if (accounts.length !== 1 || accounts[0] !== 'endereço_da_carteira_permitida') {
+                        throw new Error('Você não tem permissão para acessar esta página.');
+                    }
+
+                    // Redireciona para a página protegida por senha
+                    window.location.href = '/pasta_protegida/index.html';
+                } catch (error) {
+                    console.error(error);
+                }
+            } else {
+                console.error('A extensão Metamask não está instalada.');
+            }
+        }
+    </script>
+</body>
+</html>
