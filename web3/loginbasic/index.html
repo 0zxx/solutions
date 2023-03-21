@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+<script src="https://cdn.jsdelivr.net/npm/@metamask/detect-provider"></script>
 	<title>Página de login</title>
 	<meta charset="utf-8">
 </head>
@@ -12,4 +13,25 @@
 		<button type="button" onclick="loginWithMetamask()">Login com Metamask</button>
 	</form>
 </body>
+<script>
+function loginWithMetamask() {
+    // Verifica se o Metamask está instalado
+    if (typeof window.ethereum !== 'undefined') {
+        console.log('Metamask instalado');
+        // Faz a conexão com a carteira do usuário
+        window.ethereum.request({ method: 'eth_requestAccounts' })
+        .then((accounts) => {
+            console.log('Conta conectada:', accounts[0]);
+            // Redireciona o usuário para a página de dashboard após o login
+            window.location.href = 'dashboard.html';
+        })
+        .catch((error) => {
+            console.error(error);
+        });
+    } else {
+        // Se o Metamask não estiver instalado, exibe uma mensagem de erro
+        console.error('Metamask não está instalado');
+    }
+}
+</script>
 </html>
