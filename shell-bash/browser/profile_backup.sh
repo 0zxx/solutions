@@ -42,6 +42,9 @@ else
   # Ask for the location of the backup file
   read -p "Enter the path of the backup file: " backup_path
 
+  # Ask for the path of the browser profile to unpack the backup
+  read -p "Enter the path of the browser profile to unpack the backup: " profile_path
+
   # Ask if the user used a password or GPG key to encrypt the backup
   read -p "Did you use a password or GPG key to encrypt the backup? [password/GPG]: " encryption_type
 
@@ -51,6 +54,8 @@ else
 
     # Decrypt the encrypted file with the GPG key
     gpg -d "$backup_path" | tar -xzvf -
+    mv containers.json cookies.sqlite places.sqlite prefs.js storage.sqlite $profile_path
+    rm -r containers.json cookies.sqlite places.sqlite prefs.js storage.sqlite
   else
     # Ask for the password
     read -s -p "Enter the password: " encryption_password
@@ -58,5 +63,7 @@ else
     # Decrypt the encrypted file with the password
     unzip -P "$encryption_password" "$backup_path"
     tar -xzvf profile.tar.gz
+    mv containers.json cookies.sqlite places.sqlite prefs.js storage.sqlite $profile_path
+    rm -r containers.json cookies.sqlite places.sqlite prefs.js storage.sqlite
   fi
 fi
