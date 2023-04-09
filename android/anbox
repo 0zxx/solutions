@@ -65,7 +65,7 @@ function playstore() {
   sudo apt install -y wget unzip
 
   # Download the latest version of Open GApps for Android 7.1 (Nougat) ARM
-  wget https://sourceforge.net/projects/opengapps/files/arm/20220402/open_gapps-arm-7.1-nano-20220402.zip/download -O open_gapps.zip
+  wget https://sourceforge.net/projects/opengapps/files/arm/20220215/open_gapps-arm-11.0-full-20220215.zip/download -O open_gapps.zip
 
   # Unzip the downloaded file
   unzip open_gapps.zip -d open_gapps
