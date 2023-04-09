@@ -88,13 +88,68 @@ function playstore() {
   echo "Google Play Store has been installed on Anbox."
 }
 
+menuanbox() {
+#!/bin/bash
+
+# Disable auto-start of Anbox
+sudo systemctl disable anbox-container-manager.service
+
+# Function to start Anbox
+function start_anbox() {
+  sudo systemctl start anbox-container-manager.service
+  echo "Anbox has been started."
+}
+
+# Function to stop Anbox
+function stop_anbox() {
+  sudo systemctl stop anbox-container-manager.service
+  echo "Anbox has been stopped."
+}
+
+# Function to restart Anbox
+function restart_anbox() {
+  sudo systemctl restart anbox-container-manager.service
+  echo "Anbox has been restarted."
+}
+
+# Bash menu to interact with Anbox
+while true; do
+  echo "Please select an option:"
+  echo "1. Start Anbox"
+  echo "2. Stop Anbox"
+  echo "3. Restart Anbox"
+  echo "4. Exit"
+
+  read -p "Enter your choice: " choice
+
+  case $choice in
+    1)
+      start_anbox
+      ;;
+    2)
+      stop_anbox
+      ;;
+    3)
+      restart_anbox
+      ;;
+    4)
+      exit 0
+      ;;
+    *)
+      echo "Invalid choice, please try again."
+      ;;
+  esac
+done
+}
+
 # Bash menu to choose between installing, uninstalling, or installing the Google Play Store on Anbox
 while true; do
   echo "Please select an option:"
   echo "1. Install Anbox"
   echo "2. Uninstall Anbox"
   echo "3. Install Google Play Store"
-  echo "4. Exit"
+  echo "4. Menu Anbox"
+  echo "5. Exit"
 
   read -p "Enter your choice: " choice
 
@@ -109,6 +164,9 @@ while true; do
       playstore
       ;;
     4)
+      menuanbox
+      ;;
+    5)
       exit 0
       ;;
     *)
