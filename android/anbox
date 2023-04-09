@@ -1,0 +1,118 @@
+#!/bin/bash
+
+# Function to install Anbox
+function install() {
+  # Update and upgrade the system
+  sudo apt update && sudo apt upgrade -y
+
+  # Install required packages
+  sudo apt install -y curl lxc-utils snapd
+
+  # Enable snapd
+  sudo systemctl enable --now snapd.socket
+
+  # Install Anbox snap package
+  sudo snap install --edge --devmode anbox
+
+  # Set up Anbox modules
+  sudo modprobe ashmem_linux
+  sudo modprobe binder_linux
+
+  # Add Anbox to system path
+  echo "export PATH=\$PATH:/snap/bin" >> ~/.bashrc
+  source ~/.bashrc
+
+  # Launch Anbox
+  anbox.appmgr
+}
+
+# Function to uninstall Anbox
+function uninstall() {
+  # Stop Anbox service
+  sudo systemctl stop anbox-container-manager.service
+
+  # Uninstall Anbox snap package
+  sudo snap remove anbox
+
+  # Remove Anbox-related directories
+  sudo rm -rf /data/anbox/
+  sudo rm -rf /var/lib/anbox/
+  sudo rm -rf /usr/share/anbox/
+  sudo rm -rf /usr/bin/anbox*
+
+  # Remove Anbox-related modules
+  sudo rmmod ashmem_linux
+  sudo rmmod binder_linux
+
+  # Remove Anbox from system path
+  sudo sed -i '/anbox/d' ~/.bashrc
+  source ~/.bashrc
+
+  # Remove Anbox-related packages
+  sudo apt remove -y curl lxc-utils snapd
+
+  # Clean logs
+  sudo journalctl --vacuum-time=1d
+
+  # Done
+  echo "Anbox and related packages have been uninstalled and logs cleaned."
+}
+
+# Function to install the Google Play Store on Anbox
+function playstore() {
+  # Install required packages
+  sudo apt update
+  sudo apt install -y wget unzip
+
+  # Download the latest version of Open GApps for Android 7.1 (Nougat) ARM
+  wget https://sourceforge.net/projects/opengapps/files/arm/20220402/open_gapps-arm-7.1-nano-20220402.zip/download -O open_gapps.zip
+
+  # Unzip the downloaded file
+  unzip open_gapps.zip -d open_gapps
+
+  # Copy the Google Play Store APK to Anbox
+  sudo cp open_gapps/PrebuiltGmsCore/arm/GoogleServicesFramework.apk /var/lib/anbox/android-image/android-rootfs/system/priv-app/
+
+  sudo cp open_gapps/PrebuiltGmsCore/arm/GoogleLoginService.apk /var/lib/anbox/android-image/android-rootfs/system/priv-app/
+
+  sudo cp open_gapps/PrebuiltGmsCore/arm/GooglePlay.apk /var/lib/anbox/android-image/android-rootfs/system/priv-app/
+
+  sudo cp open_gapps/PrebuiltGmsCore/arm/GoogleCalendarSyncAdapter.apk /var/lib/anbox/android-image/android-rootfs/system/priv-app/
+
+  sudo cp open_gapps/PrebuiltGmsCore/arm/GoogleContactsSyncAdapter.apk /var/lib/anbox/android-image/android-rootfs/system/priv-app/
+
+  # Reboot Anbox
+  sudo systemctl restart anbox-container-manager.service
+
+  # Done
+  echo "Google Play Store has been installed on Anbox."
+}
+
+# Bash menu to choose between installing, uninstalling, or installing the Google Play Store on Anbox
+while true; do
+  echo "Please select an option:"
+  echo "1. Install Anbox"
+  echo "2. Uninstall Anbox"
+  echo "3. Install Google Play Store"
+  echo "4. Exit"
+
+  read -p "Enter your choice: " choice
+
+  case $choice in
+    1)
+      install
+      ;;
+    2)
+      uninstall
+      ;;
+    3)
+      playstore
+      ;;
+    4)
+      exit 0
+      ;;
+    *)
+      echo "Invalid choice, please try again."
+      ;;
+  esac
+done
