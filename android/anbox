@@ -1,5 +1,5 @@
 #!/bin/bash
-anbox() {
+anboxx() {
 # Function to install Anbox
 function install() {
   # Update and upgrade the system
@@ -175,4 +175,4 @@ while true; do
   esac
 done
 }
-anbox
+anboxx
