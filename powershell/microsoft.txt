@@ -1,0 +1,1455 @@
+2.58.103.0/24 	
+Germany
+IRR Valid
+ROA Signed and Valid
+4.144.0.0/12 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+4.160.0.0/12 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+4.176.0.0/12 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+4.192.0.0/12 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+4.208.0.0/12 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+4.224.0.0/12 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+4.240.0.0/12 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+13.64.0.0/11 	American Registry for Internet Numbers
+United States
+IRR Valid
+ROA Signed and Valid
+13.104.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+13.107.14.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.0.0.0/11 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.33.0.0/16 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.36.0.0/14 	American Registry for Internet Numbers
+United States
+IRR Valid
+ROA Signed and Valid
+20.37.64.0/19 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.40.0.0/13 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.45.64.0/20 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.45.80.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.45.128.0/20 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.46.32.0/19 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.46.32.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.46.144.0/20 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.46.192.0/19 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.48.0.0/12 	American Registry for Internet Numbers
+United States
+IRR Valid
+ROA Signed and Valid
+20.64.0.0/10 	American Registry for Internet Numbers
+United States
+IRR Valid
+ROA Signed and Valid
+20.74.128.0/17 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.135.0.0/16 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.136.0.0/17 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.143.0.0/16 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.150.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.152.0.0/16 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.153.0.0/16 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.157.0.0/16 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.160.0.0/12 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.184.0.0/13 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.192.0.0/10 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.196.0.0/18 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+20.203.0.0/17 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+23.96.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+23.100.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+23.102.0.0/16 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+23.103.64.0/18 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+23.103.128.0/17 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+23.103.160.0/20 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.64.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.66.0.0/17 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.66.166.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.67.0.0/16 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.68.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.74.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.76.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.80.0.0/12 	American Registry for Internet Numbers
+United States
+IRR Valid
+ROA Signed and Valid
+40.95.86.0/23 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.95.238.0/23 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.96.0.0/13 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.104.0.0/14 	American Registry for Internet Numbers
+United States
+IRR Valid
+ROA Signed and Valid
+40.104.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.107.18.0/23 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.107.142.0/23 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.108.128.0/17 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.110.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.112.0.0/13 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.119.160.0/19 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.120.0.0/14 	American Registry for Internet Numbers
+United States
+IRR Valid
+ROA Signed and Valid
+40.120.0.0/20 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.123.192.0/19 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.123.224.0/20 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.124.0.0/16 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.125.0.0/17 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.126.0.0/18 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.126.128.0/17 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.126.192.0/23 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.127.0.0/16 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.127.0.0/19 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+40.162.0.0/16 	Microsoft Singapore Pte. Ltd.
+Singapore
+IRR Valid
+ROA Signed and Valid
+40.169.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+40.170.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+40.171.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+41.223.11.0/24 	Platformity offsite DR usage
+South Africa
+IRR Valid
+ROA Signed and Valid
+45.8.43.0/24 	W.A.G. PAYMENT SOLUTIONS, A.S.
+Czech Republic
+IRR Valid
+ROA Signed and Valid
+45.66.80.0/24 	
+Italy
+IRR Valid
+ROA Signed and Valid
+45.82.119.0/24 	
+Hong Kong
+IRR Valid
+ROA Signed and Valid
+45.143.224.0/24 	
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+45.143.225.0/24 	
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+46.29.242.0/24 	
+Netherlands
+IRR Valid
+ROA Signed and Valid
+51.10.0.0/15 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+51.12.0.0/15 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+51.51.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+51.53.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+51.103.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+51.104.0.0/15 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+51.107.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+51.116.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+51.120.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+51.124.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+51.132.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+51.136.0.0/15 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+51.138.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+51.140.0.0/14 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+51.144.0.0/15 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+52.96.0.0/12 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+52.96.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+52.96.38.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+52.98.16.0/22 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+52.105.196.0/23 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+52.112.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+52.120.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+52.125.0.0/16 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+52.136.0.0/13 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+52.146.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+52.148.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+52.152.0.0/13 	American Registry for Internet Numbers
+United States
+IRR Valid
+ROA Signed and Valid
+52.160.0.0/11 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+52.224.0.0/11 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+52.239.232.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+57.150.0.0/15 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+57.152.0.0/14 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+57.156.0.0/14 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+57.160.0.0/12 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+62.12.56.0/24 	
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+62.12.57.0/24 	
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+62.12.58.0/24 	
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+62.12.59.0/24 	
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+62.12.60.0/24 	
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+62.12.61.0/24 	
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+64.4.0.0/18 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+65.52.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+66.119.144.0/20 	Microsoft Corporation
+United States
+IRR Valid
+66.178.148.0/24 	NuWave
+United States
+IRR Valid
+66.178.149.0/24 	NuWave
+United States
+IRR Valid
+ROA Signed and Valid
+68.154.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+68.210.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+68.218.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+68.220.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+69.52.192.0/24 	Barclays Global Investors
+United States
+IRR Valid
+ROA Signed and Valid
+69.52.193.0/24 	Barclays Global Investors
+United States
+IRR Valid
+ROA Signed and Valid
+69.52.198.0/24 	Barclays Global Investors
+United States
+IRR Valid
+ROA Signed and Valid
+69.52.199.0/24 	Barclays Global Investors
+United States
+IRR Valid
+ROA Signed and Valid
+69.84.180.0/24 	LexisNexis Risk Data Management Inc.
+United States
+IRR Valid
+ROA Signed and Valid
+70.37.0.0/17 	American Registry for Internet Numbers
+United States
+IRR Valid
+ROA Signed and Valid
+70.37.128.0/18 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+70.152.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+70.156.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+72.18.78.0/24 	Mission Cyber LLC (C08357128)
+United States
+IRR Valid
+ROA Signed and Valid
+72.144.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+72.152.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+74.80.229.0/24 	APEX Analytix, LLC
+United States
+IRR Valid
+ROA Signed and Valid
+74.160.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+74.176.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+74.200.130.0/24 	Texas A&M University System RELLIS Campus
+United States
+IRR Valid
+ROA Signed and Valid
+74.224.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+74.234.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+74.240.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+74.248.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+78.25.1.0/24 	
+Ukraine
+IRR Valid
+ROA Signed and Valid
+91.216.184.0/24 	ASR Nederland N.V.
+Netherlands
+IRR Valid
+ROA Signed and Valid
+94.143.105.0/24 	Dotdigital R1
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+94.143.106.0/24 	Dotdigital R1
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+94.143.107.0/24 	Dotdigital R1
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+94.143.108.0/24 	Dotdigital R1
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+94.245.64.0/18 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+98.64.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+98.70.0.0/15 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+102.37.0.0/16 	Microsoft (S.A.) (Proprietary) Limited
+South Africa
+IRR Valid
+ROA Signed and Valid
+102.37.0.0/17 	South Africa Allocations
+South Africa
+IRR Valid
+ROA Signed and Valid
+102.37.128.0/17 	Microsoft (S.A.) (Proprietary) Limited
+South Africa
+IRR Valid
+ROA Signed and Valid
+102.133.0.0/16 	Microsoft (S.A.) (Proprietary) Limited
+South Africa
+IRR Valid
+ROA Signed and Valid
+102.133.0.0/17 	Microsoft (S.A.) (Proprietary) Limited
+South Africa
+IRR Valid
+ROA Signed and Valid
+102.133.128.0/17 	Microsoft (S.A.) (Proprietary) Limited
+South Africa
+IRR Valid
+ROA Signed and Valid
+103.8.80.0/24 	Kiwi Wealth Investments Limited
+New Zealand
+IRR Valid
+ROA Signed and Valid
+103.58.119.0/24 	Department of Premier and Cabinet MaPS IS
+Australia
+IRR Valid
+ROA Signed and Valid
+103.155.245.0/24 	Finstek Limited
+Hong Kong
+IRR Valid
+ROA Signed and Valid
+103.164.237.0/24 	Caledfwlch Techniques
+Japan
+IRR Valid
+ROA Signed and Valid
+103.189.128.0/24 	azsmart
+Hong Kong
+IRR Valid
+ROA Signed and Valid
+103.249.62.0/24 	Lucidity Cloud Services Azure Tenant Usage
+New Zealand
+IRR Valid
+ROA Signed and Valid
+103.249.63.0/24 	Lucidity Cloud Services Azure hosted services
+New Zealand
+IRR Valid
+ROA Signed and Valid
+104.40.0.0/13 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+104.47.19.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+104.146.128.0/17 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+104.208.0.0/13 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+108.140.0.0/14 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+111.221.16.0/21 	Microsoft
+Singapore
+IRR Valid
+ROA Signed and Valid
+111.221.24.0/22 	Microsoft
+Singapore
+IRR Valid
+ROA Signed and Valid
+111.221.29.0/24 	Microsoft
+Singapore
+IRR Valid
+ROA Signed and Valid
+111.221.30.0/23 	Microsoft
+Singapore
+IRR Valid
+ROA Signed and Valid
+111.221.64.0/18 	Microsoft
+Singapore
+IRR Valid
+ROA Signed and Valid
+113.197.64.0/24 	SMX Ltd, Service Provider, Auckland
+New Zealand
+IRR Valid
+ROA Signed and Valid
+113.197.65.0/24 	Service Provider
+New Zealand
+IRR Valid
+ROA Signed and Valid
+113.197.66.0/24 	SMX Ltd, Service Provider, Auckland
+New Zealand
+IRR Valid
+ROA Signed and Valid
+113.197.67.0/24 	SMX Ltd
+New Zealand
+IRR Valid
+ROA Signed and Valid
+128.94.0.0/16 	Microsoft Singapore Pte. Ltd.
+Singapore
+IRR Valid
+ROA Signed and Valid
+129.35.19.0/24 	IBM
+United States
+IRR Valid
+ROA Signed and Valid
+131.253.1.0/24 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+131.253.5.0/24 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+131.253.6.0/24 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+131.253.8.0/24 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+131.253.12.0/22 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+131.253.24.0/21 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+131.253.32.0/20 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+131.253.61.0/24 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+131.253.62.0/23 	Various Registries (Maintained by ARIN)
+United States
+IRR Valid
+ROA Signed and Valid
+131.253.128.0/17 	Various Registries (Maintained by ARIN)
+United States
+IRR Valid
+ROA Signed and Valid
+132.164.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+132.245.0.0/16 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+134.170.0.0/16 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+135.56.0.0/24 	Avaya Inc.
+United States
+IRR Valid
+ROA Signed and Valid
+135.130.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+135.149.0.0/16 	Microsoft Singapore Pte. Ltd.
+Singapore
+IRR Valid
+ROA Signed and Valid
+137.116.0.0/16 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+137.117.0.0/16 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+137.135.0.0/16 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+138.91.0.0/16 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+138.105.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+138.128.250.0/24 	Team Industrial Services, Inc.
+United States
+IRR Valid
+ROA Signed and Valid
+138.128.251.0/24 	Team Industrial Services, Inc.
+United States
+IRR Valid
+ROA Signed and Valid
+138.239.0.0/16 	Microsoft Singapore Pte. Ltd.
+Singapore
+IRR Valid
+ROA Signed and Valid
+142.0.188.0/24 	SocketLabs
+United States
+IRR Valid
+ROA Signed and Valid
+142.147.54.0/24 	AIR CANADA
+Canada
+ROA Signed and Valid
+142.147.61.0/24 	AIR CANADA
+Canada
+IRR Valid
+ROA Signed and Valid
+145.46.160.0/24 	IPT_ESSENT
+Germany
+IRR Valid
+ROA Signed and Valid
+145.46.161.0/24 	IPT_ESSENT
+Germany
+IRR Valid
+ROA Signed and Valid
+147.145.0.0/16 	Microsoft Singapore Pte. Ltd.
+Singapore
+IRR Valid
+ROA Signed and Valid
+147.243.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+148.7.0.0/16 	Microsoft Singapore Pte. Ltd.
+Singapore
+IRR Valid
+ROA Signed and Valid
+150.171.0.0/16 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+150.171.0.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+150.171.254.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+151.206.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+155.62.0.0/16 	Microsoft Singapore Pte. Ltd.
+Singapore
+IRR Valid
+ROA Signed and Valid
+157.31.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+157.55.0.0/16 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+157.56.0.0/16 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+157.95.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+158.23.0.0/16 	Microsoft Singapore Pte. Ltd.
+Singapore
+IRR Valid
+ROA Signed and Valid
+158.158.0.0/16 	Microsoft Singapore Pte. Ltd.
+Singapore
+IRR Valid
+ROA Signed and Valid
+159.128.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+161.69.104.0/24 	SKYHIGH SECURITY LLC
+United States
+IRR Valid
+ROA Signed and Valid
+167.92.211.0/24 	
+Canada
+IRR Valid
+ROA Signed and Valid
+167.92.212.0/24 	The Manufacturers Life Insurance Company
+Canada
+IRR Valid
+ROA Signed and Valid
+167.105.0.0/16 	Microsoft Singapore Pte. Ltd.
+Singapore
+IRR Valid
+ROA Signed and Valid
+167.162.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+167.186.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+168.61.0.0/16 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+168.62.0.0/15 	Various Registries (Maintained by ARIN)
+United States
+IRR Valid
+ROA Signed and Valid
+169.138.0.0/16 	Microsoft Singapore Pte. Ltd.
+Singapore
+IRR Invalid
+ROA Signed and Valid
+170.88.82.0/24 	
+United States
+IRR Valid
+ROA Signed and Valid
+170.88.83.0/24 	Black Knight IP Holding Company, LLC
+United States
+IRR Valid
+ROA Signed and Valid
+170.88.84.0/24 	
+United States
+IRR Valid
+ROA Signed and Valid
+170.88.85.0/24 	Black Knight IP Holding Company, LLC
+United States
+IRR Valid
+ROA Signed and Valid
+170.114.39.0/24 	Zoom Video Communications, Inc
+United States
+IRR Valid
+ROA Signed and Valid
+170.114.47.0/24 	Zoom Video Communications, Inc
+United States
+IRR Valid
+ROA Signed and Valid
+170.114.56.0/24 	Zoom Video Communications, Inc
+United States
+IRR Valid
+ROA Signed and Valid
+170.114.57.0/24 	
+United States
+IRR Valid
+ROA Signed and Valid
+170.165.0.0/16 	Microsoft Singapore Pte. Ltd.
+Singapore
+IRR Valid
+ROA Signed and Valid
+172.128.0.0/11 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+172.160.0.0/11 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+172.200.0.0/13 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+172.208.0.0/13 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+176.116.123.0/24 	SVA System Vertrieb Alexander GmbH
+Germany
+IRR Valid
+ROA Signed and Valid
+178.255.242.0/24 	
+Italy
+IRR Valid
+ROA Signed and Valid
+185.52.203.0/24 	
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+185.76.37.0/24 	2020MEDIA BYOIP Azure
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+185.117.183.0/24 	SimpleThings GmbH
+Germany
+IRR Valid
+ROA Signed and Valid
+185.117.230.0/24 	
+United Arab Emirates
+IRR Valid
+ROA Signed and Valid
+185.135.57.0/24 	
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+185.154.80.0/24 	
+Austria
+IRR Valid
+ROA Signed and Valid
+185.154.81.0/24 	
+Austria
+IRR Valid
+ROA Signed and Valid
+185.154.82.0/24 	
+Austria
+IRR Valid
+ROA Signed and Valid
+185.154.83.0/24 	
+Austria
+IRR Valid
+ROA Signed and Valid
+185.195.244.0/24 	West Europe
+Netherlands
+IRR Valid
+ROA Signed and Valid
+185.195.245.0/24 	North Europe
+Netherlands
+IRR Valid
+ROA Signed and Valid
+185.209.208.0/24 	
+France
+IRR Valid
+ROA Signed and Valid
+185.209.209.0/24 	
+France
+IRR Parent Invalid
+ROA Signed and Valid
+185.211.208.0/24 	
+Netherlands
+IRR Valid
+ROA Signed and Valid
+185.242.139.0/24 	
+France
+IRR Valid
+ROA Signed and Valid
+191.232.0.0/13 	
+Brazil
+IRR Valid
+ROA Signed and Valid
+192.40.79.0/24 	
+Finland
+IRR Valid
+ROA Signed and Valid
+192.48.225.0/24 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+192.84.160.0/24 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+192.84.161.0/24 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+192.100.104.0/21 	Various Registries (Maintained by ARIN)
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+192.100.112.0/21 	Various Registries (Maintained by ARIN)
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+192.100.120.0/21 	Various Registries (Maintained by ARIN)
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+192.100.128.0/22 	Various Registries (Maintained by ARIN)
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+192.197.157.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+193.149.64.0/19 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+193.221.113.0/24 	Microsoft Limited
+United Kingdom
+IRR Parent Valid
+ROA Signed and Valid
+194.41.19.0/24 	Microsoft Limited
+United Kingdom
+IRR Parent Valid
+ROA Signed and Valid
+194.41.21.0/24 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+194.41.22.0/24 	
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+194.50.21.0/24 	VTTI Terminal Support Services B.V.
+Netherlands
+IRR Valid
+ROA Signed and Valid
+194.110.197.0/24 	
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+194.180.131.0/24 	Teekanne GmbH & Co. KG
+Germany
+IRR Valid
+ROA Signed and Valid
+195.8.43.0/24 	National depository of Ukraine, PLC
+Ukraine
+IRR Valid
+ROA Signed and Valid
+195.105.26.0/24 	BARTS HEALTH NHS TRUST (R1H)
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+195.114.140.0/24 	
+Ukraine
+IRR Valid
+ROA Signed and Valid
+198.8.73.0/24 	SlyTek Managed IT Solutions
+United States
+IRR Valid
+198.22.19.0/24 	Sourcewell Technology
+United States
+IRR Valid
+ROA Signed and Valid
+198.22.205.0/24 	Dimensional Strategies Inc.
+Canada
+IRR Valid
+ROA Signed and Valid
+198.47.13.0/24 	Reach Marketing LLC
+United States
+IRR Valid
+ROA Signed and Valid
+198.49.8.0/24 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+198.51.0.0/24 	Segal McCambridge Singer Mahoney Ltd
+United States
+IRR Valid
+198.52.0.0/24 	Sourcewell Technology
+United States
+IRR Valid
+198.180.95.0/24 	Microsoft Corporation
+United States
+IRR Valid
+198.180.97.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+198.185.5.0/24 	Metropolitan College of New York
+United States
+IRR Valid
+ROA Signed and Valid
+198.200.130.0/24 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+198.206.164.0/24 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+199.30.16.0/20 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+199.60.28.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+199.65.28.0/24 	Johnson & Johnson
+United States
+IRR Valid
+ROA Signed and Valid
+199.65.243.0/24 	Johnson & Johnson
+United States
+IRR Valid
+ROA Signed and Valid
+199.65.247.0/24 	Johnson & Johnson
+United States
+IRR Valid
+ROA Signed and Valid
+199.65.251.0/24 	Johnson & Johnson
+United States
+IRR Valid
+ROA Signed and Valid
+199.103.90.0/23 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+199.103.122.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+199.189.36.0/24 	Franciscan Alliance Inc
+United States
+IRR Valid
+ROA Signed and Valid
+199.189.37.0/24 	Franciscan Alliance Inc
+United States
+IRR Valid
+ROA Signed and Valid
+199.242.32.0/20 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+199.242.48.0/21 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+202.89.224.0/21 	Microsoft Corp, Tokyo
+Singapore
+IRR Valid
+ROA Signed and Valid
+203.32.10.0/24 	ARQ GROUP ENTERPRISE PTY LTD
+Australia
+IRR Valid
+ROA Signed and Valid
+203.32.11.0/24 	ARQ GROUP ENTERPRISE PTY LTD
+Australia
+IRR Valid
+ROA Signed and Valid
+203.84.134.0/24 	SMX Ltd, Service Provider, Auckland
+New Zealand
+IRR Valid
+ROA Signed and Valid
+203.84.135.0/24 	SMX Ltd, Service Provider, Auckland
+New Zealand
+IRR Valid
+ROA Signed and Valid
+204.14.180.0/22 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+204.79.135.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+204.79.179.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+204.79.195.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+204.79.252.0/24 	Microsoft Corporation
+United States
+IRR Valid
+204.95.96.0/20 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+204.152.140.0/23 	Microsoft Corp
+United States
+IRR Valid
+ROA Signed and Valid
+205.135.211.0/24 	John Hancock Life Insurance Company (U.S.A.)
+United States
+IRR Valid
+ROA Signed and Valid
+205.135.212.0/24 	John Hancock Life Insurance Company (U.S.A.)
+United States
+IRR Valid
+ROA Signed and Valid
+205.143.44.0/24 	ConvergeOne Holdings Corp
+United States
+IRR Valid
+ROA Signed and Valid
+205.143.45.0/24 	ConvergeOne Holdings Corp
+United States
+IRR Valid
+206.138.168.0/21 	Verizon Business
+United States
+IRR Valid
+ROA Signed and Valid
+206.191.224.0/19 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+207.46.0.0/19 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+207.46.36.0/22 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+207.46.40.0/21 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+207.46.48.0/20 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+207.46.64.0/18 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+207.46.128.0/17 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+207.68.128.0/18 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+208.66.228.0/24 	SMITH
+Canada
+IRR Valid
+ROA Signed and Valid
+208.68.136.0/21 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+208.76.45.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+208.76.46.0/24 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+208.80.20.0/24 	Exelapay, LLC. (C08468312)
+United States
+IRR Valid
+ROA Signed and Valid
+208.80.21.0/24 	Exelapay, LLC. (C08468311)
+United States
+IRR Valid
+ROA Signed and Valid
+208.84.0.0/21 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+209.199.0.0/16 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+209.240.192.0/19 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+212.1.218.0/24 	Dotdigital R2
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+212.1.219.0/24 	Dotdigital R2
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+212.1.222.0/24 	Dotdigital R3
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+212.1.223.0/24 	Dotdigital R3
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+212.46.57.0/24 	CST Group Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+213.156.248.0/24 	
+Switzerland
+IRR Valid
+ROA Signed and Valid
+213.199.128.0/18 	Microsoft Limited
+United Kingdom
+IRR Valid
+ROA Signed and Valid
+213.218.48.0/22 	Banca Sella S.p.A. Biella (BI)
+Italy
+IRR Valid
+216.32.180.0/22 	Microsoft Corporation
+United States
+IRR Valid
+ROA Signed and Valid
+216.73.183.0/24 	Private Customer (C08893804)
+United States
+IRR Valid
+ROA Signed and Valid
+216.220.203.0/24 	Vulcan Northwest, Inc.
+United States
+IRR Valid
+ROA Signed and Valid
+216.220.204.0/24 	
+United States
+IRR Valid
+ROA Signed and Valid
+216.220.208.0/20 	Microsoft Corporation 
